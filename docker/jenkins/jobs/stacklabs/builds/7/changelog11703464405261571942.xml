@@ -1,0 +1,10 @@
+commit de738b82229d78f26f46b4570eeb9a46bfb30ec5
+tree 21e03b0992ed5d9d81bfd865fdfb2992af7b5568
+parent d205933a7b7d4afa0ccf246c5a3bf551a4aad2e7
+author Pierre1405 <pierre.corbel@gmail.com> 2024-09-24 12:51:04 +0200
+committer Pierre1405 <pierre.corbel@gmail.com> 2024-09-24 12:51:04 +0200
+
+    Changing permission of gradlew
+
+
+:100644 100755 1aa94a4269074199e6ed2c37e8db3e0826030965 1aa94a4269074199e6ed2c37e8db3e0826030965 M	gradlew
