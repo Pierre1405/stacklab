@@ -1,6 +1,6 @@
-package com.stacklabs.gateway.controllers
+package com.stacklabs.helloworld.controllers
 
-import com.stacklabs.gateway.dto.HelloWorld
+import com.stacklabs.dto.HelloWorld
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.PathVariable
 import org.springframework.web.bind.annotation.RestController

@@ -1,0 +1,6 @@
+- microservice
+- rest client
+- Oauth auth
+- hello pattern from db
+- configuration per environment for port
+- gcp terraform
